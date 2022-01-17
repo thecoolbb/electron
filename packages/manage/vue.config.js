@@ -1,5 +1,3 @@
-const { VueLoaderPlugin } = require('vue-loader')
-
 module.exports = {
     // 修改 pages 入口
     pages: {
